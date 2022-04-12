@@ -29,14 +29,15 @@ h3 , h5{
     padding: 0;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 391px) {
+  
     .quadrado{
         text-align:center;
-        width: 10%;
+        width: 5%;
         background: #eee;
         display: inline-block;
-        padding: 40px;
-        font-size: 60px;
+        padding: 6%;
+        font-size: 20px;
         margin:5px;
         cursor:pointer;
         color: #eee;
